@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Great Vibes', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: bolder;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+.top-container {
+    background-color: #D4F1F4;
+    padding-top: 100px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin: 0;
+    padding: 2rem 0 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+
+.top-cloud {
+    position: relative;
+    left: 20vw;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 25vw;
+}
+
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.computer-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile-pic {
+    margin-top: 50px;
+    width: 200px;
+    clip-path: circle(50%);
+}
+
+hr {
+    border: none;
+    border-top: dotted;
+    border-width: 5px;
+    width: 50px;
+    color: rgb(188, 204, 204);
+    margin: 50px auto;
+}
+
+.contact-me h2 {
+    padding-top: 20px;
+}
+
+.contact-me {
+    margin: 50px auto;
+    line-height: 2;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    border: none;
+    padding: 0.25rem 0.5rem;
+    text-align: left;
+    display: inline-block;
+    border-radius: 0.5rem;
+    background-color: #66BFBF;
+    font-size: 1rem;
+    margin: 20px auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn:hover {
+    background-color: #77CFCF;
+}
+
+.footer-link {
+    padding: 1rem;
+    text-decoration: none;
+    color: rgb(9, 122, 126);
+}
+
+.footer-link:hover {
+    color: whitesmoke;
+}
+
+.copyright {
+    color: white;
+    padding: 1rem 0 0;
+}
